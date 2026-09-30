@@ -1,0 +1,3 @@
+interface:
+  display_name: "LingQ YouTube Import"
+  short_description: "Turn a YouTube video into a LingQ audio lesson with the video attached"
